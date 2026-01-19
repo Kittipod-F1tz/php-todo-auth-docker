@@ -1,0 +1,10 @@
+# Docker
+pgdata/
+.env
+
+# PHP
+/vendor/
+*.log
+
+# OS
+.DS_Store
